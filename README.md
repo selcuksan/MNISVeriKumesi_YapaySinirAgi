@@ -1,1 +1,1 @@
-# MN-ST_yapaySinirAg-
+# MNIST_YapaySinirAgi
